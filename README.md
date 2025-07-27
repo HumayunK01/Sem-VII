@@ -70,7 +70,7 @@ Sem VII/
   - 📄 [Experiment 01.docx](DEVOPS/Experiment%2001/Experiment%2001.docx)
   - 📋 [Rubric](DEVOPS/DEVOPS_Experiment_Rubric.pdf)
 
-### FC (Forensic Computing)
+### FC (Edge and Fog Computing)
 - **Experiment 01**: Digital forensics and investigation techniques
   - 📄 [Experiment 01.docx](FC/Experiment%2001/Experiment%2001.docx)
   - 📄 [Experiment 01.pdf](FC/Experiment%2001/Experiment%2001.pdf)
@@ -120,9 +120,11 @@ This repository is actively maintained and updated with new experiments, assignm
 
 For any questions regarding the repository structure or academic materials, please refer to the respective subject directories and their associated rubrics.
 
+**Website**: [https://www.devhumayun.me/]
+
 ---
 
-**Last Updated**: $(Get-Date -Format "yyyy-MM-dd")
+**Last Updated**: 2025-07-27
 **Total Subjects**: 4
 **Total Experiments**: 5
 **Total Assignments**: 3

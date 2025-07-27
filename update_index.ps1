@@ -80,6 +80,17 @@ if ($Verbose) {
 Write-Host "`nIndex update completed!" -ForegroundColor Green
 Write-Host "Tip: Run this script whenever you add new files to keep the index current." -ForegroundColor Yellow
 
+# Update README.md with current date
+$currentDate = Get-Date -Format "yyyy-MM-dd"
+$readmePath = "README.md"
+
+if (Test-Path $readmePath) {
+    $content = Get-Content $readmePath -Raw
+    $content = $content -replace "\*\*Last Updated\*\*: .*", "**Last Updated**: $currentDate"
+    $content | Set-Content $readmePath -NoNewline
+    Write-Host "README.md date updated to: $currentDate" -ForegroundColor Green
+}
+
 # Optional: Update README.md with new statistics
 if ($Force) {
     Write-Host "`nUpdating README.md with new statistics..." -ForegroundColor Yellow
