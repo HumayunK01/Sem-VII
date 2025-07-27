@@ -76,7 +76,7 @@ Sem VII/
 
 ## 📋 Detailed Index
 
-### MLBC (Machine Learning and Blockchain) - IoTCSBCL701
+### Machine Learning and Blockchain - IoTCSBCL701
 - **Experiment 01**: Machine learning and blockchain algorithms
   - 📄 [Practical 01.pdf](MLBC/Experiment%2001/Practical%2001.pdf)
   - 📋 [Experiment Rubric](MLBC/MLBC_Experiment_Rubric.pdf)
@@ -84,17 +84,17 @@ Sem VII/
   - 📋 [Mini Project Rubric](MLBC/MLBC_MinIiProject_Rubric.pdf)
   - 📄 [Index Page](MLBC/MLBC_Index%20Page.pdf)
 
-### FC (Edge and Fog Computing) - IoTCSBCL702
+### Edge and Fog Computing - IoTCSBCL702
 - **Experiment 01**: Edge and fog computing techniques
   - 📄 [Experiment 01.pdf](FC/Experiment%2001/Experiment%2001.pdf)
   - 📋 [Experiment Rubric](FC/FC_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](FC/FC_Assignment_Rubric.pdf)
 
-### DEVOPS (DevOps & Cloud Computing) - IoTCSBCL703
+### DevOps & Cloud Computing - IoTCSBCL703
 - **Experiment 01**: DevOps fundamentals and practices
   - 📋 [Rubric](DEVOPS/DEVOPS_Experiment_Rubric.pdf)
 
-### OSINT (Open Source Intelligence) - IoTCSBCL704
+### Open Source Intelligence - IoTCSBCL704
 - **Experiment 01**: OSINT tools and techniques
   - 📄 [Experiment 01.pdf](OSINT/Experiment%2001/Experiment%2001.pdf)
 - **Experiment 02**: Advanced OSINT methodologies
@@ -107,8 +107,8 @@ Sem VII/
 
 | Subject | Experiments | Assignments | Mini Projects | Status |
 |---------|-------------|-------------|---------------|---------|
-| [MLBC](MLBC/) | 1 | - | - | ✅ Active |
-| [FC](FC/) | 1 | - | - | ✅ Active |
+| [ML & BC](MLBC/) | 1 | - | - | ✅ Active |
+| [EFC](FC/) | 1 | - | - | ✅ Active |
 | [DEVOPS](DEVOPS/) | 1 | - | - | ✅ Active |
 | [OSINT](OSINT/) | 2 | - | - | ✅ Active |
 
