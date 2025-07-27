@@ -36,6 +36,20 @@ foreach ($subject in $subjects) {
         $stats.TotalFiles += $files.Count
         $stats.TotalDirectories += (Get-ChildItem -Path $subjectPath -Recurse -Directory).Count
         
+        # Count folders by type (not files)
+        $directories = Get-ChildItem -Path $subjectPath -Recurse -Directory
+        foreach ($dir in $directories) {
+            if ($dir.Name -match "^Experiment \d+|^Practical \d+") {
+                $stats.Experiments++
+            }
+            if ($dir.Name -match "^Assignment \d+") {
+                $stats.Assignments++
+            }
+            if ($dir.Name -match "^Mini Project \d+|^Project \d+") {
+                $stats.MiniProjects++
+            }
+        }
+        
         foreach ($file in $files) {
             $relativePath = $file.FullName.Replace($rootPath.Path, "").TrimStart("\")
             $fileList += [PSCustomObject]@{
@@ -45,17 +59,6 @@ foreach ($subject in $subjects) {
                 Size = $file.Length
                 Extension = $file.Extension
                 LastModified = $file.LastWriteTime
-            }
-            
-            # Count by type
-            if ($file.Name -match "Experiment|Practical") {
-                $stats.Experiments++
-            }
-            if ($file.Name -match "Assignment") {
-                $stats.Assignments++
-            }
-            if ($file.Name -match "Mini.*Project|Project") {
-                $stats.MiniProjects++
             }
         }
     }

@@ -4,28 +4,28 @@ This repository contains all experiments, assignments, and academic materials fo
 
 ## 📚 Subjects Overview
 
-### 1. **DEVOPS** (DevOps & Cloud Computing)
+### 1. **DEVOPS** (DevOps & Cloud Computing) - IoTCSBCL703
 - **Experiments**: 1
 - **Rubrics**: Experiment Rubric available
 - **Status**: Active
 
-### 2. **FC** (Forensic Computing)
+### 2. **FC** (Edge and Fog Computing) - IoTCSBCL702
 - **Experiments**: 1
-- **Assignments**: 1
+- **Assignments**: 0
 - **Rubrics**: Experiment & Assignment Rubrics available
 - **Status**: Active
 
-### 3. **MLBC** (Machine Learning & Big Data Computing)
+### 3. **MLBC** (Machine Learning and Blockchain) - IoTCSBCL701
 - **Experiments**: 1
-- **Assignments**: 1
-- **Mini Projects**: 1
+- **Assignments**: 0
+- **Mini Projects**: 0
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
 - **Status**: Active
 
-### 4. **OSINT** (Open Source Intelligence)
+### 4. **OSINT** (Open Source Intelligence) - IoTCSBCL704
 - **Experiments**: 2
-- **Assignments**: 1
-- **Mini Projects**: 1
+- **Assignments**: 0
+- **Mini Projects**: 0
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
 - **Status**: Active
 
@@ -65,20 +65,20 @@ Sem VII/
 
 ## 📋 Detailed Index
 
-### DEVOPS (DevOps & Cloud Computing)
+### DEVOPS (DevOps & Cloud Computing) - IoTCSBCL703
 - **Experiment 01**: DevOps fundamentals and practices
   - 📄 [Experiment 01.docx](DEVOPS/Experiment%2001/Experiment%2001.docx)
   - 📋 [Rubric](DEVOPS/DEVOPS_Experiment_Rubric.pdf)
 
-### FC (Edge and Fog Computing)
-- **Experiment 01**: Digital forensics and investigation techniques
+### FC (Edge and Fog Computing) - IoTCSBCL702
+- **Experiment 01**: Edge and fog computing techniques
   - 📄 [Experiment 01.docx](FC/Experiment%2001/Experiment%2001.docx)
   - 📄 [Experiment 01.pdf](FC/Experiment%2001/Experiment%2001.pdf)
   - 📋 [Experiment Rubric](FC/FC_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](FC/FC_Assignment_Rubric.pdf)
 
-### MLBC (Machine Learning & Big Data Computing)
-- **Experiment 01**: Machine learning algorithms and big data processing
+### MLBC (Machine Learning and Blockchain) - IoTCSBCL701
+- **Experiment 01**: Machine learning and blockchain algorithms
   - 📄 [Practical 01.docx](MLBC/Experiment%2001/Practical%2001.docx)
   - 📄 [Practical 01.pdf](MLBC/Experiment%2001/Practical%2001.pdf)
   - 📋 [Experiment Rubric](MLBC/MLBC_Experiment_Rubric.pdf)
@@ -86,7 +86,7 @@ Sem VII/
   - 📋 [Mini Project Rubric](MLBC/MLBC_MinIiProject_Rubric.pdf)
   - 📄 [Index Page](MLBC/MLBC_Index%20Page.pdf)
 
-### OSINT (Open Source Intelligence)
+### OSINT (Open Source Intelligence) - IoTCSBCL704
 - **Experiment 01**: OSINT tools and techniques
   - 📄 [Experiment 01.docx](OSINT/Experiment%2001/Experiment%2001.docx)
   - 📄 [Experiment 01.pdf](OSINT/Experiment%2001/Experiment%2001.pdf)
@@ -102,9 +102,9 @@ Sem VII/
 | Subject | Experiments | Assignments | Mini Projects | Status |
 |---------|-------------|-------------|---------------|---------|
 | [DEVOPS](DEVOPS/) | 1 | - | - | ✅ Active |
-| [FC](FC/) | 1 | 1 | - | ✅ Active |
-| [MLBC](MLBC/) | 1 | 1 | 1 | ✅ Active |
-| [OSINT](OSINT/) | 2 | 1 | 1 | ✅ Active |
+| [FC](FC/) | 1 | - | - | ✅ Active |
+| [MLBC](MLBC/) | 1 | - | - | ✅ Active |
+| [OSINT](OSINT/) | 2 | - | - | ✅ Active |
 
 ## 📝 File Types
 
@@ -127,5 +127,5 @@ For any questions regarding the repository structure or academic materials, plea
 **Last Updated**: 2025-07-27
 **Total Subjects**: 4
 **Total Experiments**: 5
-**Total Assignments**: 3
-**Total Mini Projects**: 2 
+**Total Assignments**: 0
+**Total Mini Projects**: 0 
