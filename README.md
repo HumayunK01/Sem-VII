@@ -29,8 +29,18 @@ This repository contains all experiments, assignments, and academic materials fo
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
 - **Status**: Active
 
-## 📁 Repository Structure
+## 📋 Rubrics Navigation
 
+| Subject | Course Code | Experiment Rubric | Assignment Rubric | Mini Project Rubric |
+|---------|-------------|-------------------|-------------------|-------------------|
+| **MLBC** | IoTCSBCL701 | [📋 MLBC_Experiment_Rubric.pdf](MLBC/MLBC_Experiment_Rubric.pdf) | [📋 MLBC_Assignment_Rubric.pdf](MLBC/MLBC_Assignment_Rubric.pdf) | [📋 MLBC_MinIiProject_Rubric.pdf](MLBC/MLBC_MinIiProject_Rubric.pdf) |
+| **FC** | IoTCSBCL702 | [📋 FC_Experiment_Rubric.pdf](FC/FC_Experiment_Rubric.pdf) | [📋 FC_Assignment_Rubric.pdf](FC/FC_Assignment_Rubric.pdf) | - |
+| **DEVOPS** | IoTCSBCL703 | [📋 DEVOPS_Experiment_Rubric.pdf](DEVOPS/DEVOPS_Experiment_Rubric.pdf) | - | - |
+| **OSINT** | IoTCSBCL704 | [📋 OSINT_Experiment_Rubric.pdf](OSINT/OSINT_Experiment_Rubric.pdf) | [📋 OSINT_Assignment_Rubric.pdf](OSINT/OSINT_Assignment_Rubric.pdf) | [📋 OSINT_MiniProject_Rubric.pdf](OSINT/OSINT_MiniProject_Rubric.pdf) |
+
+<!-- ## 📁 Repository Structure -->
+
+<!--
 ```
 Sem VII/
 ├── DEVOPS/
@@ -62,6 +72,7 @@ Sem VII/
     ├── OSINT_Experiment_Rubric.pdf
     └── OSINT_MiniProject_Rubric.pdf
 ```
+-->
 
 ## 📋 Detailed Index
 
