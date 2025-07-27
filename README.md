@@ -33,10 +33,10 @@ This repository contains all experiments, assignments, and academic materials fo
 
 | Subject | Course Code | Experiment Rubric | Assignment Rubric | Mini Project Rubric |
 |---------|-------------|-------------------|-------------------|-------------------|
-| **MLBC** | IoTCSBCL701 | [📋 MLBC_Experiment_Rubric.pdf](MLBC/MLBC_Experiment_Rubric.pdf) | [📋 MLBC_Assignment_Rubric.pdf](MLBC/MLBC_Assignment_Rubric.pdf) | [📋 MLBC_MinIiProject_Rubric.pdf](MLBC/MLBC_MinIiProject_Rubric.pdf) |
-| **FC** | IoTCSBCL702 | [📋 FC_Experiment_Rubric.pdf](FC/FC_Experiment_Rubric.pdf) | [📋 FC_Assignment_Rubric.pdf](FC/FC_Assignment_Rubric.pdf) | - |
-| **DEVOPS** | IoTCSBCL703 | [📋 DEVOPS_Experiment_Rubric.pdf](DEVOPS/DEVOPS_Experiment_Rubric.pdf) | - | - |
-| **OSINT** | IoTCSBCL704 | [📋 OSINT_Experiment_Rubric.pdf](OSINT/OSINT_Experiment_Rubric.pdf) | [📋 OSINT_Assignment_Rubric.pdf](OSINT/OSINT_Assignment_Rubric.pdf) | [📋 OSINT_MiniProject_Rubric.pdf](OSINT/OSINT_MiniProject_Rubric.pdf) |
+| **MLBC** | IoTCSBCL701 | [📋 Download](MLBC/MLBC_Experiment_Rubric.pdf) | [📋 Download](MLBC/MLBC_Assignment_Rubric.pdf) | [📋 Download](MLBC/MLBC_MinIiProject_Rubric.pdf) |
+| **FC** | IoTCSBCL702 | [📋 Download](FC/FC_Experiment_Rubric.pdf) | [📋 Download](FC/FC_Assignment_Rubric.pdf) | - |
+| **DEVOPS** | IoTCSBCL703 | [📋 Download](DEVOPS/DEVOPS_Experiment_Rubric.pdf) | - | - |
+| **OSINT** | IoTCSBCL704 | [📋 Download](OSINT/OSINT_Experiment_Rubric.pdf) | [📋 Download](OSINT/OSINT_Assignment_Rubric.pdf) | [📋 Download](OSINT/OSINT_MiniProject_Rubric.pdf) |
 
 <!-- ## 📁 Repository Structure -->
 
