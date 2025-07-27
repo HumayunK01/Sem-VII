@@ -18,7 +18,7 @@ This repository contains all experiments, assignments, and academic materials fo
 - **Status**: Active
 
 ### 3. **DevOps & Cloud Computing** - IoTCSBCL703
-- **Experiments**: 1
+- **Experiments**: 2
 - **Rubrics**: Experiment Rubric available
 - **Status**: Active
 
@@ -95,6 +95,8 @@ Sem VII/
 ### DevOps & Cloud Computing - IoTCSBCL703
 - **Experiment 01**: DevOps fundamentals and practices
   - 📄 [Experiment 01.pdf](DEVOPS/Experiment%2001/Experiment%2001.pdf)
+- **Experiment 02**: Advanced DevOps practices and tools
+  - 📄 [Experiment 02.pdf](DEVOPS/Experiment%2002/Experiment%2002.pdf)
   - 📋 [Rubric](DEVOPS/DEVOPS_Experiment_Rubric.pdf)
 
 ### Open Source Intelligence - IoTCSBCL704
@@ -112,7 +114,7 @@ Sem VII/
 |---------|-------------|-------------|---------------|---------|
 | [Machine Learning & Blockchain](MLBC/) | 2 | - | - | ✅ Active |
 | [EFC](FC/) | 1 | - | - | ✅ Active |
-| [DEVOPS](DEVOPS/) | 1 | - | - | ✅ Active |
+| [DEVOPS](DEVOPS/) | 2 | - | - | ✅ Active |
 | [OSINT](OSINT/) | 2 | - | - | ✅ Active |
 
 ## 📝 File Types
@@ -133,8 +135,8 @@ For any questions regarding the repository structure or academic materials, plea
 
 ---
 
-**Last Updated**: 2025-07-27
+**Last Updated**: 2025-07-28
 **Total Subjects**: 4
-**Total Experiments**: 6
+**Total Experiments**: 7
 **Total Assignments**: 0
 **Total Mini Projects**: 0
