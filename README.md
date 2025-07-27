@@ -4,25 +4,25 @@ This repository contains all experiments, assignments, and academic materials fo
 
 ## 📚 Subjects Overview
 
-### 1. **MLBC** (Machine Learning and Blockchain) - IoTCSBCL701
+### 1. **Machine Learning and Blockchain** - IoTCSBCL701
 - **Experiments**: 1
 - **Assignments**: 0
 - **Mini Projects**: 0
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
 - **Status**: Active
 
-### 2. **FC** (Edge and Fog Computing) - IoTCSBCL702
+### 2. **Edge and Fog Computing** - IoTCSBCL702
 - **Experiments**: 1
 - **Assignments**: 0
 - **Rubrics**: Experiment & Assignment Rubrics available
 - **Status**: Active
 
-### 3. **DEVOPS** (DevOps & Cloud Computing) - IoTCSBCL703
+### 3. **DevOps & Cloud Computing** - IoTCSBCL703
 - **Experiments**: 1
 - **Rubrics**: Experiment Rubric available
 - **Status**: Active
 
-### 4. **OSINT** (Open Source Intelligence) - IoTCSBCL704
+### 4. **Open Source Intelligence** - IoTCSBCL704
 - **Experiments**: 2
 - **Assignments**: 0
 - **Mini Projects**: 0
