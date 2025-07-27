@@ -94,13 +94,13 @@ if (Test-Path $readmePath) {
     $content = $content -replace "\*\*Last Updated\*\*: .*", "**Last Updated**: $currentDate"
     
     # Update total experiments count
-    $content = $content -replace "(\*\*Total Experiments\*\*: ).*", "`$1$($stats.Experiments)"
+    $content = $content -replace "\*\*Total Experiments\*\*: \d+", "**Total Experiments**: $($stats.Experiments)"
     
     # Update total assignments count
-    $content = $content -replace "(\*\*Total Assignments\*\*: ).*", "`$1$($stats.Assignments)"
+    $content = $content -replace "\*\*Total Assignments\*\*: \d+", "**Total Assignments**: $($stats.Assignments)"
     
     # Update total mini projects count
-    $content = $content -replace "(\*\*Total Mini Projects\*\*: ).*", "`$1$($stats.MiniProjects)"
+    $content = $content -replace "\*\*Total Mini Projects\*\*: \d+", "**Total Mini Projects**: $($stats.MiniProjects)"
     
     # Update subject-specific experiment counts
     $subjectStats = @{}
@@ -131,17 +131,9 @@ if (Test-Path $readmePath) {
         }
     }
     
-    # Update subject overviews
-    $content = $content -replace "(\*\*Experiments\*\*: )1(\s*\*\*Assignments\*\*: )0(\s*\*\*Mini Projects\*\*: )0", "`$1$($subjectStats['MLBC'].Experiments)`$2$($subjectStats['MLBC'].Assignments)`$3$($subjectStats['MLBC'].MiniProjects)"
-    $content = $content -replace "(\*\*Experiments\*\*: )1(\s*\*\*Assignments\*\*: )0", "`$1$($subjectStats['FC'].Experiments)`$2$($subjectStats['FC'].Assignments)"
-    $content = $content -replace "(\*\*Experiments\*\*: )1", "`$1$($subjectStats['DEVOPS'].Experiments)"
-    $content = $content -replace "(\*\*Experiments\*\*: )2(\s*\*\*Assignments\*\*: )0(\s*\*\*Mini Projects\*\*: )0", "`$1$($subjectStats['OSINT'].Experiments)`$2$($subjectStats['OSINT'].Assignments)`$3$($subjectStats['OSINT'].MiniProjects)"
-    
-    # Update navigation table
-    $content = $content -replace "(\[Machine Learning & Blockchain\]\(MLBC/\) \| )1", "`$1$($subjectStats['MLBC'].Experiments)"
-    $content = $content -replace "(\[Edge and Fog Computing\]\(FC/\) \| )1", "`$1$($subjectStats['FC'].Experiments)"
-    $content = $content -replace "(\[DevOps & Cloud Computing\]\(DEVOPS/\) \| )1", "`$1$($subjectStats['DEVOPS'].Experiments)"
-    $content = $content -replace "(\[Open Source Intelligence\]\(OSINT/\) \| )2", "`$1$($subjectStats['OSINT'].Experiments)"
+    # Note: Subject overview updates disabled to prevent regex issues
+    # Manual updates may be needed for subject-specific counts
+    Write-Host "Note: Subject overview counts may need manual updates" -ForegroundColor Yellow
     
     $content | Set-Content $readmePath -NoNewline
     Write-Host "README.md updated - Date: $currentDate, Experiments: $($stats.Experiments), Assignments: $($stats.Assignments), Mini Projects: $($stats.MiniProjects)" -ForegroundColor Green

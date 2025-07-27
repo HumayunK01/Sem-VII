@@ -12,13 +12,13 @@ This repository contains all experiments, assignments, and academic materials fo
 - **Status**: Active
 
 ### 2. **Edge and Fog Computing** - IoTCSBCL702
-- $11
+- **Experiments**: 1
 - **Assignments**: 0
 - **Rubrics**: Experiment & Assignment Rubrics available
 - **Status**: Active
 
 ### 3. **DevOps & Cloud Computing** - IoTCSBCL703
-- $11
+- **Experiments**: 1
 - **Rubrics**: Experiment Rubric available
 - **Status**: Active
 
@@ -134,6 +134,6 @@ For any questions regarding the repository structure or academic materials, plea
 
 **Last Updated**: 2025-07-27
 **Total Subjects**: 4
-$16
-$10
-$10
+**Total Experiments**: 6
+**Total Assignments**: 0
+**Total Mini Projects**: 0
