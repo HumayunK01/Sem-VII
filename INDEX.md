@@ -1,7 +1,7 @@
 # Semester VII - Detailed File Index
 
 ## 📊 Repository Statistics
-- **Total Files**: 20
+- **Total Files**: 21
 - **Total Directories**: 8
 - **Subjects**: 4
 - **Experiments**: 5
@@ -14,12 +14,14 @@
 ```
 DEVOPS/
 ├── Experiment 01/
-│   └── Experiment 01.docx (20KB, 57 lines)
+│   ├── Experiment 01.docx (798KB, 2512 lines)
+│   └── Experiment 01.pdf (763KB, 3113 lines)
 └── DEVOPS_Experiment_Rubric.pdf (281KB, 1401 lines)
 ```
 
 **Files:**
-- `DEVOPS/Experiment 01/Experiment 01.docx` - DevOps fundamentals experiment
+- `DEVOPS/Experiment 01/Experiment 01.docx` - DevOps fundamentals experiment (editable)
+- `DEVOPS/Experiment 01/Experiment 01.pdf` - DevOps fundamentals experiment (viewable)
 - `DEVOPS/DEVOPS_Experiment_Rubric.pdf` - Evaluation criteria for DevOps experiments
 
 ### FC (Forensic Computing)

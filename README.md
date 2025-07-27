@@ -94,6 +94,7 @@ Sem VII/
 
 ### DevOps & Cloud Computing - IoTCSBCL703
 - **Experiment 01**: DevOps fundamentals and practices
+  - 📄 [Experiment 01.pdf](DEVOPS/Experiment%2001/Experiment%2001.pdf)
   - 📋 [Rubric](DEVOPS/DEVOPS_Experiment_Rubric.pdf)
 
 ### Open Source Intelligence - IoTCSBCL704
