@@ -83,15 +83,68 @@ if ($Verbose) {
 Write-Host "`nIndex update completed!" -ForegroundColor Green
 Write-Host "Tip: Run this script whenever you add new files to keep the index current." -ForegroundColor Yellow
 
-# Update README.md with current date
+# Update README.md with current date and statistics
 $currentDate = Get-Date -Format "yyyy-MM-dd"
 $readmePath = "README.md"
 
 if (Test-Path $readmePath) {
     $content = Get-Content $readmePath -Raw
+    
+    # Update date
     $content = $content -replace "\*\*Last Updated\*\*: .*", "**Last Updated**: $currentDate"
+    
+    # Update total experiments count
+    $content = $content -replace "(\*\*Total Experiments\*\*: ).*", "`$1$($stats.Experiments)"
+    
+    # Update total assignments count
+    $content = $content -replace "(\*\*Total Assignments\*\*: ).*", "`$1$($stats.Assignments)"
+    
+    # Update total mini projects count
+    $content = $content -replace "(\*\*Total Mini Projects\*\*: ).*", "`$1$($stats.MiniProjects)"
+    
+    # Update subject-specific experiment counts
+    $subjectStats = @{}
+    foreach ($subject in $subjects) {
+        $subjectStats[$subject] = @{
+            Experiments = 0
+            Assignments = 0
+            MiniProjects = 0
+        }
+    }
+    
+    # Count experiments per subject
+    foreach ($subject in $subjects) {
+        $subjectPath = Join-Path $rootPath $subject
+        if (Test-Path $subjectPath) {
+            $directories = Get-ChildItem -Path $subjectPath -Recurse -Directory
+            foreach ($dir in $directories) {
+                if ($dir.Name -match "^Experiment \d+|^Practical \d+") {
+                    $subjectStats[$subject].Experiments++
+                }
+                if ($dir.Name -match "^Assignment \d+") {
+                    $subjectStats[$subject].Assignments++
+                }
+                if ($dir.Name -match "^Mini Project \d+|^Project \d+") {
+                    $subjectStats[$subject].MiniProjects++
+                }
+            }
+        }
+    }
+    
+    # Update subject overviews
+    $content = $content -replace "(\*\*Experiments\*\*: )1(\s*\*\*Assignments\*\*: )0(\s*\*\*Mini Projects\*\*: )0", "`$1$($subjectStats['MLBC'].Experiments)`$2$($subjectStats['MLBC'].Assignments)`$3$($subjectStats['MLBC'].MiniProjects)"
+    $content = $content -replace "(\*\*Experiments\*\*: )1(\s*\*\*Assignments\*\*: )0", "`$1$($subjectStats['FC'].Experiments)`$2$($subjectStats['FC'].Assignments)"
+    $content = $content -replace "(\*\*Experiments\*\*: )1", "`$1$($subjectStats['DEVOPS'].Experiments)"
+    $content = $content -replace "(\*\*Experiments\*\*: )2(\s*\*\*Assignments\*\*: )0(\s*\*\*Mini Projects\*\*: )0", "`$1$($subjectStats['OSINT'].Experiments)`$2$($subjectStats['OSINT'].Assignments)`$3$($subjectStats['OSINT'].MiniProjects)"
+    
+    # Update navigation table
+    $content = $content -replace "(\[Machine Learning & Blockchain\]\(MLBC/\) \| )1", "`$1$($subjectStats['MLBC'].Experiments)"
+    $content = $content -replace "(\[Edge and Fog Computing\]\(FC/\) \| )1", "`$1$($subjectStats['FC'].Experiments)"
+    $content = $content -replace "(\[DevOps & Cloud Computing\]\(DEVOPS/\) \| )1", "`$1$($subjectStats['DEVOPS'].Experiments)"
+    $content = $content -replace "(\[Open Source Intelligence\]\(OSINT/\) \| )2", "`$1$($subjectStats['OSINT'].Experiments)"
+    
     $content | Set-Content $readmePath -NoNewline
-    Write-Host "README.md date updated to: $currentDate" -ForegroundColor Green
+    Write-Host "README.md updated - Date: $currentDate, Experiments: $($stats.Experiments), Assignments: $($stats.Assignments), Mini Projects: $($stats.MiniProjects)" -ForegroundColor Green
 }
 
 # Optional: Update README.md with new statistics

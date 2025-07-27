@@ -5,20 +5,20 @@ This repository contains all experiments, assignments, and academic materials fo
 ## 📚 Subjects Overview
 
 ### 1. **Machine Learning and Blockchain** - IoTCSBCL701
-- **Experiments**: 1
+- **Experiments**: 2
 - **Assignments**: 0
 - **Mini Projects**: 0
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
 - **Status**: Active
 
 ### 2. **Edge and Fog Computing** - IoTCSBCL702
-- **Experiments**: 1
+- $11
 - **Assignments**: 0
 - **Rubrics**: Experiment & Assignment Rubrics available
 - **Status**: Active
 
 ### 3. **DevOps & Cloud Computing** - IoTCSBCL703
-- **Experiments**: 1
+- $11
 - **Rubrics**: Experiment Rubric available
 - **Status**: Active
 
@@ -79,6 +79,8 @@ Sem VII/
 ### Machine Learning and Blockchain - IoTCSBCL701
 - **Experiment 01**: Machine learning and blockchain algorithms
   - 📄 [Practical 01.pdf](MLBC/Experiment%2001/Practical%2001.pdf)
+- **Experiment 02**: Advanced machine learning and blockchain techniques
+  - 📄 [Practical 02.pdf](MLBC/Experiment%2002/Practical%2002.pdf)
   - 📋 [Experiment Rubric](MLBC/MLBC_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](MLBC/MLBC_Assignment_Rubric.pdf)
   - 📋 [Mini Project Rubric](MLBC/MLBC_MinIiProject_Rubric.pdf)
@@ -107,7 +109,7 @@ Sem VII/
 
 | Subject | Experiments | Assignments | Mini Projects | Status |
 |---------|-------------|-------------|---------------|---------|
-| [ML & BC](MLBC/) | 1 | - | - | ✅ Active |
+| [Machine Learning & Blockchain](MLBC/) | 2 | - | - | ✅ Active |
 | [EFC](FC/) | 1 | - | - | ✅ Active |
 | [DEVOPS](DEVOPS/) | 1 | - | - | ✅ Active |
 | [OSINT](OSINT/) | 2 | - | - | ✅ Active |
@@ -132,6 +134,6 @@ For any questions regarding the repository structure or academic materials, plea
 
 **Last Updated**: 2025-07-27
 **Total Subjects**: 4
-**Total Experiments**: 5
-**Total Assignments**: 0
-**Total Mini Projects**: 0 
+$16
+$10
+$10
