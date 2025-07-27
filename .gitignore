@@ -67,4 +67,10 @@ venv.bak/
 !*.xlsx
 !*.xls
 !*.pptx
-!*.ppt 
+!*.ppt
+
+# Keep documentation files
+!README.md
+!INDEX.md
+!QUICK_START.md
+!*.ps1 
