@@ -38,48 +38,47 @@ This repository contains all experiments, assignments, and academic materials fo
 | **DEVOPS** | IoTCSBCL703 | [📋 Download](DEVOPS/DEVOPS_Experiment_Rubric.pdf) | - | - |
 | **OSINT** | IoTCSBCL704 | [📋 Download](OSINT/OSINT_Experiment_Rubric.pdf) | [📋 Download](OSINT/OSINT_Assignment_Rubric.pdf) | [📋 Download](OSINT/OSINT_MiniProject_Rubric.pdf) |
 
-<!-- ## 📁 Repository Structure -->
+## 📁 Repository Structure
 
-<!--
 ```
 Sem VII/
 ├── DEVOPS/
 │   ├── Experiment 01/
-│   │   └── Experiment 01.docx
+│   │   └── Experiment 01.pdf
+│   ├── Experiment 02/
+│   │   └── Experiment 02.pdf
 │   └── DEVOPS_Experiment_Rubric.pdf
 ├── FC/
 │   ├── Experiment 01/
-│   │   ├── Experiment 01.docx
 │   │   └── Experiment 01.pdf
 │   ├── FC_Assignment_Rubric.pdf
 │   └── FC_Experiment_Rubric.pdf
 ├── MLBC/
 │   ├── Experiment 01/
-│   │   ├── Practical 01.docx
 │   │   └── Practical 01.pdf
+│   ├── Experiment 02/
+│   │   └── Practical 02.pdf
 │   ├── MLBC_Assignment_Rubric.pdf
 │   ├── MLBC_Experiment_Rubric.pdf
 │   ├── MLBC_Index Page.pdf
 │   └── MLBC_MinIiProject_Rubric.pdf
 └── OSINT/
     ├── Experiment 01/
-    │   ├── Experiment 01.docx
     │   └── Experiment 01.pdf
     ├── Experiment 02/
-    │   ├── Experiment 02.docx
     │   └── Experiment 02.pdf
     ├── OSINT_Assignment_Rubric.pdf
     ├── OSINT_Experiment_Rubric.pdf
     └── OSINT_MiniProject_Rubric.pdf
 ```
--->
+
 
 ## 📋 Detailed Index
 
 ### Machine Learning and Blockchain - IoTCSBCL701
-- **Experiment 01**: Machine learning and blockchain algorithms
+- **Experiment 01**:
   - 📄 [Practical 01.pdf](MLBC/Experiment%2001/Practical%2001.pdf)
-- **Experiment 02**: Advanced machine learning and blockchain techniques
+- **Experiment 02**:
   - 📄 [Practical 02.pdf](MLBC/Experiment%2002/Practical%2002.pdf)
   - 📋 [Experiment Rubric](MLBC/MLBC_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](MLBC/MLBC_Assignment_Rubric.pdf)
@@ -87,22 +86,22 @@ Sem VII/
   - 📄 [Index Page](MLBC/MLBC_Index%20Page.pdf)
 
 ### Edge and Fog Computing - IoTCSBCL702
-- **Experiment 01**: Edge and fog computing techniques
+- **Experiment 01**:
   - 📄 [Experiment 01.pdf](FC/Experiment%2001/Experiment%2001.pdf)
   - 📋 [Experiment Rubric](FC/FC_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](FC/FC_Assignment_Rubric.pdf)
 
 ### DevOps & Cloud Computing - IoTCSBCL703
-- **Experiment 01**: DevOps fundamentals and practices
+- **Experiment 01**:
   - 📄 [Experiment 01.pdf](DEVOPS/Experiment%2001/Experiment%2001.pdf)
-- **Experiment 02**: Advanced DevOps practices and tools
+- **Experiment 02**:
   - 📄 [Experiment 02.pdf](DEVOPS/Experiment%2002/Experiment%2002.pdf)
   - 📋 [Rubric](DEVOPS/DEVOPS_Experiment_Rubric.pdf)
 
 ### Open Source Intelligence - IoTCSBCL704
-- **Experiment 01**: OSINT tools and techniques
+- **Experiment 01**:
   - 📄 [Experiment 01.pdf](OSINT/Experiment%2001/Experiment%2001.pdf)
-- **Experiment 02**: Advanced OSINT methodologies
+- **Experiment 02**:
   - 📄 [Experiment 02.pdf](OSINT/Experiment%2002/Experiment%2002.pdf)
   - 📋 [Experiment Rubric](OSINT/OSINT_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](OSINT/OSINT_Assignment_Rubric.pdf)
@@ -112,15 +111,14 @@ Sem VII/
 
 | Subject | Experiments | Assignments | Mini Projects | Status |
 |---------|-------------|-------------|---------------|---------|
-| [Machine Learning & Blockchain](MLBC/) | 2 | - | - | ✅ Active |
+| [MLBC](MLBC/) | 2 | - | - | ✅ Active |
 | [EFC](FC/) | 1 | - | - | ✅ Active |
 | [DEVOPS](DEVOPS/) | 2 | - | - | ✅ Active |
 | [OSINT](OSINT/) | 2 | - | - | ✅ Active |
 
 ## 📝 File Types
 
-- **📄 .docx**: Original editable documents
-- **📄 .pdf**: Portable document format for easy viewing
+- **📄 .pdf**: Portable document format for all experiments and documentation
 - **📋 .pdf**: Rubrics and evaluation criteria
 
 ## 🔄 Repository Updates
