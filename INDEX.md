@@ -1,10 +1,10 @@
 # Semester VII - Detailed File Index
 
 ## 📊 Repository Statistics
-- **Total Files**: 18
-- **Total Directories**: 10
+- **Total Files**: 19
+- **Total Directories**: 11
 - **Subjects**: 4
-- **Experiments**: 7
+- **Experiments**: 8
 - **Assignments**: 3
 - **Mini Projects**: 2
 
@@ -17,12 +17,15 @@ DEVOPS/
 │   └── Experiment 01.pdf (763KB, 3113 lines)
 ├── Experiment 02/
 │   └── Experiment 02.pdf
+├── Experiment 03/
+│   └── Experiment 03.pdf
 └── DEVOPS_Experiment_Rubric.pdf (281KB, 1401 lines)
 ```
 
 **Files:**
 - `DEVOPS/Experiment 01/Experiment 01.pdf` - DevOps fundamentals experiment
 - `DEVOPS/Experiment 02/Experiment 02.pdf` - Advanced DevOps experiment
+- `DEVOPS/Experiment 03/Experiment 03.pdf` - Cloud Computing experiment
 - `DEVOPS/DEVOPS_Experiment_Rubric.pdf` - Evaluation criteria for DevOps experiments
 
 ### FC (Forensic Computing)

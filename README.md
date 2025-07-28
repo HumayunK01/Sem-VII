@@ -18,7 +18,7 @@ This repository contains all experiments, assignments, and academic materials fo
 - **Status**: Active
 
 ### 3. **DevOps & Cloud Computing** - IoTCSBCL703
-- **Experiments**: 2
+- **Experiments**: 3
 - **Rubrics**: Experiment Rubric available
 - **Status**: Active
 
@@ -47,6 +47,8 @@ Sem VII/
 │   │   └── Experiment 01.pdf
 │   ├── Experiment 02/
 │   │   └── Experiment 02.pdf
+│   ├── Experiment 03/
+│   │   └── Experiment 03.pdf
 │   └── DEVOPS_Experiment_Rubric.pdf
 ├── FC/
 │   ├── Experiment 01/
@@ -96,6 +98,8 @@ Sem VII/
   - 📄 [Experiment 01.pdf](DEVOPS/Experiment%2001/Experiment%2001.pdf)
 - **Experiment 02**:
   - 📄 [Experiment 02.pdf](DEVOPS/Experiment%2002/Experiment%2002.pdf)
+- **Experiment 03**:
+  - 📄 [Experiment 03.pdf](DEVOPS/Experiment%2003/Experiment%2003.pdf)
   - 📋 [Rubric](DEVOPS/DEVOPS_Experiment_Rubric.pdf)
 
 ### Open Source Intelligence - IoTCSBCL704
@@ -135,6 +139,6 @@ For any questions regarding the repository structure or academic materials, plea
 
 **Last Updated**: 2025-07-28
 **Total Subjects**: 4
-**Total Experiments**: 7
+**Total Experiments**: 8
 **Total Assignments**: 0
 **Total Mini Projects**: 0
