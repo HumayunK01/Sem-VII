@@ -5,7 +5,7 @@ This repository contains all experiments, assignments, and academic materials fo
 ## 📚 Subjects Overview
 
 ### 1. **Machine Learning and Blockchain** - IoTCSBCL701
-- **Experiments**: 2
+- **Experiments**: 3
 - **Assignments**: 0
 - **Mini Projects**: 0
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
@@ -60,6 +60,8 @@ Sem VII/
 │   │   └── Practical 01.pdf
 │   ├── Experiment 02/
 │   │   └── Practical 02.pdf
+│   ├── Experiment 03/
+│   │   └── Experiment 03.pdf
 │   ├── MLBC_Assignment_Rubric.pdf
 │   ├── MLBC_Experiment_Rubric.pdf
 │   ├── MLBC_Index Page.pdf
@@ -82,6 +84,8 @@ Sem VII/
   - 📄 [Practical 01.pdf](MLBC/Experiment%2001/Practical%2001.pdf)
 - **Experiment 02**:
   - 📄 [Practical 02.pdf](MLBC/Experiment%2002/Practical%2002.pdf)
+- **Experiment 03**:
+  - 📄 [Experiment 03.pdf](MLBC/Experiment%2003/Experiment%2003.pdf)
   - 📋 [Experiment Rubric](MLBC/MLBC_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](MLBC/MLBC_Assignment_Rubric.pdf)
   - 📋 [Mini Project Rubric](MLBC/MLBC_MinIiProject_Rubric.pdf)
@@ -115,9 +119,9 @@ Sem VII/
 
 | Subject | Experiments | Assignments | Mini Projects | Status |
 |---------|-------------|-------------|---------------|---------|
-| [MLBC](MLBC/) | 2 | - | - | ✅ Active |
+| [MLBC](MLBC/) | 3 | - | - | ✅ Active |
 | [EFC](FC/) | 1 | - | - | ✅ Active |
-| [DEVOPS](DEVOPS/) | 2 | - | - | ✅ Active |
+| [DEVOPS](DEVOPS/) | 3 | - | - | ✅ Active |
 | [OSINT](OSINT/) | 2 | - | - | ✅ Active |
 
 ## 📝 File Types
@@ -137,8 +141,8 @@ For any questions regarding the repository structure or academic materials, plea
 
 ---
 
-**Last Updated**: 2025-07-28
+**Last Updated**: 2025-07-30
 **Total Subjects**: 4
-**Total Experiments**: 8
+**Total Experiments**: 9
 **Total Assignments**: 0
 **Total Mini Projects**: 0

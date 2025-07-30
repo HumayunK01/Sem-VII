@@ -1,10 +1,10 @@
 # Semester VII - Detailed File Index
 
 ## 📊 Repository Statistics
-- **Total Files**: 19
-- **Total Directories**: 11
+- **Total Files**: 20
+- **Total Directories**: 12
 - **Subjects**: 4
-- **Experiments**: 8
+- **Experiments**: 9
 - **Assignments**: 3
 - **Mini Projects**: 2
 
@@ -49,6 +49,8 @@ MLBC/
 │   └── Practical 01.pdf (567KB, 2396 lines)
 ├── Experiment 02/
 │   └── Practical 02.pdf
+├── Experiment 03/
+│   └── Experiment 03.pdf
 ├── MLBC_Assignment_Rubric.pdf (280KB, 1438 lines)
 ├── MLBC_Experiment_Rubric.pdf (281KB, 1402 lines)
 ├── MLBC_Index Page.pdf (131KB, 909 lines)
@@ -58,6 +60,7 @@ MLBC/
 **Files:**
 - `MLBC/Experiment 01/Practical 01.pdf` - ML algorithms practical
 - `MLBC/Experiment 02/Practical 02.pdf` - Advanced ML algorithms practical
+- `MLBC/Experiment 03/Experiment 03.pdf` - Blockchain implementation practical
 - `MLBC/MLBC_Assignment_Rubric.pdf` - Assignment evaluation criteria
 - `MLBC/MLBC_Experiment_Rubric.pdf` - Experiment evaluation criteria
 - `MLBC/MLBC_Index Page.pdf` - Subject index and overview
@@ -89,24 +92,24 @@ OSINT/
 - **PDF Documents (.pdf)**: 17 files
 
 ### By Category
-- **Experiments**: 7 directories, 7 files
+- **Experiments**: 8 directories, 8 files
 - **Rubrics**: 8 files
 - **Assignments**: 3 rubric files
 - **Mini Projects**: 2 rubric files
 
 ### By Subject
-- **DEVOPS**: 3 files
+- **DEVOPS**: 4 files
 - **FC**: 3 files
-- **MLBC**: 6 files
+- **MLBC**: 7 files
 - **OSINT**: 5 files
 
 ## 📋 Quick Reference
 
 | Subject | Experiments | Files | Total Size |
 |---------|-------------|-------|------------|
-| DEVOPS | 2 | 3 | ~301KB |
+| DEVOPS | 3 | 4 | ~350KB |
 | FC | 1 | 3 | ~1.3MB |
-| MLBC | 2 | 6 | ~1.2MB |
+| MLBC | 3 | 7 | ~1.3MB |
 | OSINT | 2 | 5 | ~2.7MB |
 
 ## 🎯 File Naming Convention
