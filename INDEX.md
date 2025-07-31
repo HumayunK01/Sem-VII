@@ -1,10 +1,10 @@
 # Semester VII - Detailed File Index
 
 ## 📊 Repository Statistics
-- **Total Files**: 20
-- **Total Directories**: 12
+- **Total Files**: 21
+- **Total Directories**: 13
 - **Subjects**: 4
-- **Experiments**: 9
+- **Experiments**: 10
 - **Assignments**: 3
 - **Mini Projects**: 2
 
@@ -73,6 +73,8 @@ OSINT/
 │   └── Experiment 01.pdf (1.3MB)
 ├── Experiment 02/
 │   └── Experiment 02.pdf (1.3MB)
+├── Experiment 03/
+│   └── Experiment 03.pdf
 ├── OSINT_Assignment_Rubric.pdf (280KB, 1411 lines)
 ├── OSINT_Experiment_Rubric.pdf (281KB, 1403 lines)
 └── OSINT_MiniProject_Rubric.pdf (280KB, 1416 lines)
@@ -81,6 +83,7 @@ OSINT/
 **Files:**
 - `OSINT/Experiment 01/Experiment 01.pdf` - OSINT tools experiment
 - `OSINT/Experiment 02/Experiment 02.pdf` - Advanced OSINT experiment
+- `OSINT/Experiment 03/Experiment 03.pdf` - Social media intelligence experiment
 - `OSINT/OSINT_Assignment_Rubric.pdf` - Assignment evaluation criteria
 - `OSINT/OSINT_Experiment_Rubric.pdf` - Experiment evaluation criteria
 - `OSINT/OSINT_MiniProject_Rubric.pdf` - Mini project evaluation criteria
@@ -92,7 +95,7 @@ OSINT/
 - **PDF Documents (.pdf)**: 17 files
 
 ### By Category
-- **Experiments**: 8 directories, 8 files
+- **Experiments**: 9 directories, 9 files
 - **Rubrics**: 8 files
 - **Assignments**: 3 rubric files
 - **Mini Projects**: 2 rubric files
@@ -101,7 +104,7 @@ OSINT/
 - **DEVOPS**: 4 files
 - **FC**: 3 files
 - **MLBC**: 7 files
-- **OSINT**: 5 files
+- **OSINT**: 6 files
 
 ## 📋 Quick Reference
 
@@ -110,7 +113,7 @@ OSINT/
 | DEVOPS | 3 | 4 | ~350KB |
 | FC | 1 | 3 | ~1.3MB |
 | MLBC | 3 | 7 | ~1.3MB |
-| OSINT | 2 | 5 | ~2.7MB |
+| OSINT | 3 | 6 | ~3.0MB |
 
 ## 🎯 File Naming Convention
 

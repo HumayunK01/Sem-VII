@@ -23,7 +23,7 @@ This repository contains all experiments, assignments, and academic materials fo
 - **Status**: Active
 
 ### 4. **Open Source Intelligence** - IoTCSBCL704
-- **Experiments**: 2
+- **Experiments**: 3
 - **Assignments**: 0
 - **Mini Projects**: 0
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
@@ -71,6 +71,8 @@ Sem VII/
     │   └── Experiment 01.pdf
     ├── Experiment 02/
     │   └── Experiment 02.pdf
+    ├── Experiment 03/
+    │   └── Experiment 03.pdf
     ├── OSINT_Assignment_Rubric.pdf
     ├── OSINT_Experiment_Rubric.pdf
     └── OSINT_MiniProject_Rubric.pdf
@@ -111,6 +113,8 @@ Sem VII/
   - 📄 [Experiment 01.pdf](OSINT/Experiment%2001/Experiment%2001.pdf)
 - **Experiment 02**:
   - 📄 [Experiment 02.pdf](OSINT/Experiment%2002/Experiment%2002.pdf)
+- **Experiment 03**:
+  - 📄 [Experiment 03.pdf](OSINT/Experiment%2003/Experiment%2003.pdf)
   - 📋 [Experiment Rubric](OSINT/OSINT_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](OSINT/OSINT_Assignment_Rubric.pdf)
   - 📋 [Mini Project Rubric](OSINT/OSINT_MiniProject_Rubric.pdf)
@@ -122,7 +126,7 @@ Sem VII/
 | [MLBC](MLBC/) | 3 | - | - | ✅ Active |
 | [EFC](FC/) | 1 | - | - | ✅ Active |
 | [DEVOPS](DEVOPS/) | 3 | - | - | ✅ Active |
-| [OSINT](OSINT/) | 2 | - | - | ✅ Active |
+| [OSINT](OSINT/) | 3 | - | - | ✅ Active |
 
 ## 📝 File Types
 
@@ -141,8 +145,8 @@ For any questions regarding the repository structure or academic materials, plea
 
 ---
 
-**Last Updated**: 2025-07-30
+**Last Updated**: 2025-07-31
 **Total Subjects**: 4
-**Total Experiments**: 9
+**Total Experiments**: 10
 **Total Assignments**: 0
 **Total Mini Projects**: 0
