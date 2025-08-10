@@ -145,8 +145,8 @@ For any questions regarding the repository structure or academic materials, plea
 
 ---
 
-**Last Updated**: 2025-07-31
+**Last Updated**: 2025-08-10
 **Total Subjects**: 4
-**Total Experiments**: 10
+**Total Experiments**: 14
 **Total Assignments**: 0
 **Total Mini Projects**: 0
