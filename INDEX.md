@@ -1,12 +1,13 @@
 # Semester VII - Detailed File Index
 
 ## 📊 Repository Statistics
-- **Total Files**: 21
-- **Total Directories**: 13
+- **Total Files**: 35
+- **Total Directories**: 23
 - **Subjects**: 4
-- **Experiments**: 10
-- **Assignments**: 3
-- **Mini Projects**: 2
+- **Experiments**: 23
+- **Assignments**: 0
+- **Mini Projects**: 0
+- **IAE Materials**: 3
 
 ## 📁 Complete File Listing
 
@@ -66,6 +67,21 @@ MLBC/
 - `MLBC/MLBC_Index Page.pdf` - Subject index and overview
 - `MLBC/MLBC_MinIiProject_Rubric.pdf` - Mini project evaluation criteria
 
+### IAE I (Internal Assessment Evaluation)
+```
+IAE I/
+├── FC/
+│   └── IAE 1 FC Answers Bank.pdf (62KB)
+└── MLBC/
+    ├── IAE 1 Imp Questions.pdf (61KB)
+    └── IAE 1 MLBC Answers Bank.pdf (56KB)
+```
+
+**Files:**
+- `IAE I/FC/IAE 1 FC Answers Bank.pdf` - Edge and Fog Computing IAE answer bank
+- `IAE I/MLBC/IAE 1 Imp Questions.pdf` - Machine Learning & Blockchain important questions
+- `IAE I/MLBC/IAE 1 MLBC Answers Bank.pdf` - Machine Learning & Blockchain IAE answer bank
+
 ### OSINT (Open Source Intelligence)
 ```
 OSINT/
@@ -74,16 +90,39 @@ OSINT/
 ├── Experiment 02/
 │   └── Experiment 02.pdf (1.3MB)
 ├── Experiment 03/
-│   └── Experiment 03.pdf
-├── OSINT_Assignment_Rubric.pdf (280KB, 1411 lines)
-├── OSINT_Experiment_Rubric.pdf (281KB, 1403 lines)
-└── OSINT_MiniProject_Rubric.pdf (280KB, 1416 lines)
+│   └── Experiment 03.pdf (1.6MB)
+├── Experiment 04/
+│   └── Experiment 04.pdf (830KB)
+├── Experiment 05/
+│   └── Experiment 05.pdf (1.1MB)
+├── Experiment 06/
+│   └── Experiment 06.pdf (468KB)
+├── Experiment 07/
+│   └── Experiment 07.pdf (348KB)
+├── Experiment 08/
+│   └── Experiment 08.pdf (412KB)
+├── Experiment 09/
+│   └── Experiment 09.pdf (1.4MB)
+├── Experiment 10/
+│   └── Experiment 10.pdf (1.5MB)
+├── OSINT Index Page.pdf (135KB)
+├── OSINT_Assignment_Rubric.pdf (280KB)
+├── OSINT_Experiment_Rubric.pdf (281KB)
+└── OSINT_MiniProject_Rubric.pdf (280KB)
 ```
 
 **Files:**
 - `OSINT/Experiment 01/Experiment 01.pdf` - OSINT tools experiment
 - `OSINT/Experiment 02/Experiment 02.pdf` - Advanced OSINT experiment
 - `OSINT/Experiment 03/Experiment 03.pdf` - Social media intelligence experiment
+- `OSINT/Experiment 04/Experiment 04.pdf` - Advanced reconnaissance techniques
+- `OSINT/Experiment 05/Experiment 05.pdf` - Digital footprint analysis
+- `OSINT/Experiment 06/Experiment 06.pdf` - Network investigation techniques
+- `OSINT/Experiment 07/Experiment 07.pdf` - Open source data mining
+- `OSINT/Experiment 08/Experiment 08.pdf` - Threat intelligence gathering
+- `OSINT/Experiment 09/Experiment 09.pdf` - Advanced search techniques
+- `OSINT/Experiment 10/Experiment 10.pdf` - Comprehensive OSINT methodology
+- `OSINT/OSINT Index Page.pdf` - Subject index and overview
 - `OSINT/OSINT_Assignment_Rubric.pdf` - Assignment evaluation criteria
 - `OSINT/OSINT_Experiment_Rubric.pdf` - Experiment evaluation criteria
 - `OSINT/OSINT_MiniProject_Rubric.pdf` - Mini project evaluation criteria
@@ -102,18 +141,20 @@ OSINT/
 
 ### By Subject
 - **DEVOPS**: 4 files
-- **FC**: 3 files
-- **MLBC**: 7 files
-- **OSINT**: 6 files
+- **FC**: 6 files
+- **MLBC**: 9 files
+- **OSINT**: 14 files
+- **IAE I**: 3 files
 
 ## 📋 Quick Reference
 
 | Subject | Experiments | Files | Total Size |
-|---------|-------------|-------|------------|
-| DEVOPS | 3 | 4 | ~350KB |
-| FC | 1 | 3 | ~1.3MB |
-| MLBC | 3 | 7 | ~1.3MB |
-| OSINT | 3 | 6 | ~3.0MB |
+|---------|-------------|-------|-----------|
+| DEVOPS | 4 | 5 | ~87MB |
+| FC | 4 | 6 | ~1.4MB |
+| MLBC | 5 | 9 | ~2.1MB |
+| OSINT | 10 | 14 | ~10.5MB |
+| IAE I | - | 3 | ~180KB |
 
 ## 🎯 File Naming Convention
 
@@ -126,8 +167,10 @@ OSINT/
 
 - All experiments are available in PDF format
 - Rubrics are provided for all major assessment categories
-- File sizes range from 20KB to 1.3MB
-- Total repository size: ~5.5MB
+- File sizes range from 20KB to 85MB (Jenkins WAR file)
+- Total repository size: ~101MB
+- IAE materials added for internal assessment preparation
+- OSINT has the most comprehensive experiment set with 10 completed experiments
 
 ---
 
