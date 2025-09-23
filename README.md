@@ -13,14 +13,15 @@ This repository contains all experiments, assignments, and academic materials fo
 - **Status**: Active
 
 ### 2. **Edge and Fog Computing** - IoTCSBCL702
-- **Experiments**: 4 (Experiments 01, 03, 04, 06)
+- **Experiments**: 6 (Experiments 01-06)
 - **Assignments**: 0
 - **IAE Materials**: Answer bank available
 - **Rubrics**: Experiment & Assignment Rubrics available
+- **Documentation**: Index page available
 - **Status**: Active
 
 ### 3. **DevOps & Cloud Computing** - IoTCSBCL703
-- **Experiments**: 4 (Experiments 01-04)
+- **Experiments**: 6 (Experiments 01-06)
 - **Special Files**: Jenkins WAR file for practical deployment
 - **Rubrics**: Experiment Rubric available
 - **Status**: Active
@@ -55,16 +56,25 @@ Sem VII/
 │   │   └── jenkins.war
 │   ├── Experiment 04/
 │   │   └── Experiment 04.pdf
+│   ├── Experiment 05/
+│   │   └── Experiment 05.pdf
+│   ├── Experiment 06/
+│   │   └── Experiment 06.pdf
 │   └── DEVOPS_Experiment_Rubric.pdf
 ├── FC/
 │   ├── Experiment 01/
 │   │   └── Experiment 01.pdf
+│   ├── Experiment 02/
+│   │   └── Experiment 02.pdf
 │   ├── Experiment 03/
 │   │   └── Experiment 03.pdf
 │   ├── Experiment 04/
 │   │   └── Experiment 04.pdf
+│   ├── Experiment 05/
+│   │   └── Experiment No 05.pdf
 │   ├── Experiment 06/
 │   │   └── Experiment 06.pdf
+│   ├── FC Index Page.pdf
 │   ├── FC_Assignment_Rubric.pdf
 │   └── FC_Experiment_Rubric.pdf
 ├── IAE I/
@@ -140,14 +150,20 @@ Sem VII/
 ### Edge and Fog Computing - IoTCSBCL702
 - **Experiment 01**:
   - 📄 [Experiment 01.pdf](FC/Experiment%2001/Experiment%2001.pdf)
+- **Experiment 02**:
+  - 📄 [Experiment 02.pdf](FC/Experiment%2002/Experiment%2002.pdf)
 - **Experiment 03**:
   - 📄 [Experiment 03.pdf](FC/Experiment%2003/Experiment%2003.pdf)
 - **Experiment 04**:
   - 📄 [Experiment 04.pdf](FC/Experiment%2004/Experiment%2004.pdf)
+- **Experiment 05**:
+  - 📄 [Experiment No 05.pdf](FC/Experiment%2005/Experiment%20No%2005.pdf)
 - **Experiment 06**:
   - 📄 [Experiment 06.pdf](FC/Experiment%2006/Experiment%2006.pdf)
 - **IAE Materials**:
   - 📄 [IAE 1 FC Answers Bank](IAE%20I/FC/IAE%201%20FC%20Answers%20Bank.pdf)
+- **Documentation**:
+  - 📄 [FC Index Page](FC/FC%20Index%20Page.pdf)
 - **Rubrics**:
   - 📋 [Experiment Rubric](FC/FC_Experiment_Rubric.pdf)
   - 📋 [Assignment Rubric](FC/FC_Assignment_Rubric.pdf)
@@ -162,6 +178,10 @@ Sem VII/
   - 🔧 [Jenkins WAR file](DEVOPS/Experiment%2003/jenkins.war)
 - **Experiment 04**:
   - 📄 [Experiment 04.pdf](DEVOPS/Experiment%2004/Experiment%2004.pdf)
+- **Experiment 05**:
+  - 📄 [Experiment 05.pdf](DEVOPS/Experiment%2005/Experiment%2005.pdf)
+- **Experiment 06**:
+  - 📄 [Experiment 06.pdf](DEVOPS/Experiment%2006/Experiment%2006.pdf)
 - **Rubrics**:
   - 📋 [Experiment Rubric](DEVOPS/DEVOPS_Experiment_Rubric.pdf)
 
@@ -197,8 +217,8 @@ Sem VII/
 | Subject | Experiments | Assignments | Mini Projects | IAE Materials | Status |
 |---------|-------------|-------------|---------------|---------------|---------|
 | [MLBC](MLBC/) | 5 | - | - | ✅ | ✅ Active |
-| [FC](FC/) | 4 | - | - | ✅ | ✅ Active |
-| [DEVOPS](DEVOPS/) | 4 | - | - | - | ✅ Active |
+| [FC](FC/) | 6 | - | - | ✅ | ✅ Active |
+| [DEVOPS](DEVOPS/) | 6 | - | - | - | ✅ Active |
 | [OSINT](OSINT/) | 10 | - | - | - | ✅ Active |
 
 ## 📝 File Types
@@ -219,9 +239,9 @@ For any questions regarding the repository structure or academic materials, plea
 
 ---
 
-**Last Updated**: 2025-09-15
+**Last Updated**: 2025-09-23
 **Total Subjects**: 4
-**Total Experiments**: 23
+**Total Experiments**: 27
 **Total Assignments**: 0
 **Total Mini Projects**: 0
 **IAE Materials**: 3 files for FC and MLBC subjects
