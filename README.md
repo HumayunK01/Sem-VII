@@ -8,31 +8,29 @@ This repository contains all experiments, assignments, and academic materials fo
 - **Experiments**: 6 (Practicals 01-02, Experiments 03-04, 09-10)
 - **Assignments**: 0
 - **Mini Projects**: 0
-- **IAE Materials**: Answer bank and important questions available
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
-- **Status**: Active
+- **Status**: Completed
 
 ### 2. **Edge and Fog Computing** - IoTCSBCL702
 - **Experiments**: 10 (Experiments 01-10)
 - **Assignments**: 0
-- **IAE Materials**: Answer bank available
 - **Rubrics**: Experiment & Assignment Rubrics available
 - **Documentation**: Index page available
-- **Status**: Active
+- **Status**: Completed
 
 ### 3. **DevOps & Cloud Computing** - IoTCSBCL703
 - **Experiments**: 10 (Experiments 01-10)
 - **Assignments**: 2 (Assignments 01-02)
 - **Special Files**: Jenkins WAR file for practical deployment
 - **Rubrics**: Experiment & Assignment Rubrics available
-- **Status**: Active
+- **Status**: Completed
 
 ### 4. **Open Source Intelligence** - IoTCSBCL704
 - **Experiments**: 10 (Experiments 01-10)
 - **Assignments**: 0
 - **Mini Projects**: 1 (OSINT-Based Real-Time Scam Detection Framework)
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
-- **Status**: Active
+- **Status**: Completed
 
 ## 📋 Rubrics Navigation
 
@@ -47,10 +45,10 @@ This repository contains all experiments, assignments, and academic materials fo
 
 | Subject | Experiments | Assignments | Mini Projects | Status |
 |---------|-------------|-------------|---------------|---------|
-| [MLBC](MLBC/) | 6 | - | - | ✅ Active |
-| [FC](FC/) | 10 | - | - | ✅ Active |
-| [DEVOPS](DEVOPS/) | 10 | 2 | - | ✅ Active |
-| [OSINT](OSINT/) | 10 | - | 1 | ✅ Active |
+| [MLBC](MLBC/) | 6 | - | - | ✅ Completed |
+| [FC](FC/) | 10 | - | - | ✅ Completed |
+| [DEVOPS](DEVOPS/) | 10 | 2 | - | ✅ Completed |
+| [OSINT](OSINT/) | 10 | - | 1 | ✅ Completed |
 
 ## 📝 File Types
 
@@ -75,4 +73,3 @@ For any questions regarding the repository structure or academic materials, plea
 **Total Experiments**: 36
 **Total Assignments**: 2
 **Total Mini Projects**: 1
-**IAE Materials**: 3 files for FC and MLBC subjects
