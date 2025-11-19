@@ -5,7 +5,7 @@ This repository contains all experiments, assignments, and academic materials fo
 ## 📚 Subjects Overview
 
 ### 1. **Machine Learning and Blockchain** - IoTCSBCL701
-- **Experiments**: 6 (Practicals 01-04, 09-10)
+- **Experiments**: 10 (Experiments 01-10)
 - **Assignments**: 0
 - **Mini Projects**: 1 (PawFund - Decentralized Rescue System)
 - **Rubrics**: Experiment, Assignment & Mini Project Rubrics available
@@ -45,7 +45,7 @@ This repository contains all experiments, assignments, and academic materials fo
 
 | Subject | Experiments | Assignments | Mini Projects | Status |
 |---------|-------------|-------------|---------------|---------|
-| [MLBC](MLBC/) | 6 | - | 1 | ✅ Completed |
+| [MLBC](MLBC/) | 10 | - | 1 | ✅ Completed |
 | [FC](FC/) | 10 | - | - | ✅ Completed |
 | [DEVOPS](DEVOPS/) | 10 | 2 | - | ✅ Completed |
 | [OSINT](OSINT/) | 10 | - | 1 | ✅ Completed |
@@ -70,6 +70,6 @@ For any questions regarding the repository structure or academic materials, plea
 
 **Last Updated**: 2025-09-23
 **Total Subjects**: 4
-**Total Experiments**: 36
+**Total Experiments**: 40
 **Total Assignments**: 2
 **Total Mini Projects**: 2
